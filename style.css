@@ -1,0 +1,20 @@
+#wrapper {
+  width: 300px;
+  margin: 0 auto;
+  background-color: #F8EAEA;
+  padding: 10px;
+}
+.red {
+	width: 20px;
+	height: 20px;
+	background-color: #b71c1c;
+	border-radius: 50%;
+	margin: 3px;
+  	display:inline-block;
+}
+.gitAccount {
+  color: #081993;
+  opacity: 0;
+  font-weight: bold;
+  text-align: center;
+}
